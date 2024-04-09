@@ -23,7 +23,7 @@ Netstat : -ano
 Netstat : -o
 
 ```
-git clone https://github.com/0A8Fit/Riper.git
+git clone https://github.com/ci04/Riper.git
 cd Riper WiFi
 python riper.py
 ```
